@@ -2,7 +2,8 @@
 
 using namespace std;
 
-int main() {
+int main()
+{
 	cout << "* Converter *" << endl;
 	string name;
 	float millimeters;
